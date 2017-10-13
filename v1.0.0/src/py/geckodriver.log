@@ -2875,3 +2875,57 @@ JavaScript warning: http://192.168.9.14/portal/default/ffood/jScript/jquery-1.4.
 JavaScript warning: http://192.168.9.14/portal/default/ffood/jScript/jquery-1.4.2.js, line 3686: unreachable code after return statement
 1507861151721	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.9.14/portal/default/main.jsp"
 1507861157872	Marionette	INFO	New connections will no longer be accepted
+1507866543143	geckodriver	INFO	geckodriver 0.19.0
+1507866543181	geckodriver	INFO	Listening on 127.0.0.1:58304
+1507866545328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\周伟\\AppData\\Local\\Temp\\rust_mozprofile.qtrZvaB5bhmz"
+1507866546213	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1507866547923	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\周伟\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6536] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6536] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1507866555391	Marionette	INFO	Listening on port 58311
+1507866555941	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507866556105	Marionette	DEBUG	Register listener.js for window 4294967297
+1507866556301	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507866556377	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507866556378	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507866556613	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.9.14/"
+1507866556805	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.9.14/"
+1507866561694	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.9.14/"
+1507866561937	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.9.14/"
+1507866561938	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.9.14/"
+1507866562836	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.9.14/portal/default/main.jsp"
+Unable to read VR Path Registry from C:\Users\周伟\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://192.168.9.14/portal/default/ffood/jScript/jquery-1.4.2.js, line 3686: unreachable code after return statement
+JavaScript warning: http://192.168.9.14/portal/default/ffood/jScript/jquery-1.4.2.js, line 3686: unreachable code after return statement
+1507866564391	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.9.14/portal/default/main.jsp"
+1507866565325	Marionette	INFO	New connections will no longer be accepted
+1507866566946	geckodriver	INFO	geckodriver 0.19.0
+1507866566986	geckodriver	INFO	Listening on 127.0.0.1:58387
+1507866569089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\周伟\\AppData\\Local\\Temp\\rust_mozprofile.f1flksnmGtDe"
+1507866570005	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1507866571610	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\周伟\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12152] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2400FC,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/extension-process-script.js, line 339: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+1507866578929	Marionette	INFO	Listening on port 58393
+1507866579400	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507866579637	Marionette	DEBUG	Register listener.js for window 4294967297
+1507866579964	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507866580043	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507866580044	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507866580478	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.9.14/"
+1507866580906	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.9.14/"
+1507866584833	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.9.14/"
+1507866585241	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.9.14/"
+1507866585241	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.9.14/"
+1507866586034	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.9.14/portal/default/main.jsp"
+Unable to read VR Path Registry from C:\Users\周伟\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://192.168.9.14/portal/default/ffood/jScript/jquery-1.4.2.js, line 3686: unreachable code after return statement
+JavaScript warning: http://192.168.9.14/portal/default/ffood/jScript/jquery-1.4.2.js, line 3686: unreachable code after return statement
+1507866587409	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.9.14/portal/default/main.jsp"
+1507866594144	Marionette	INFO	New connections will no longer be accepted
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
